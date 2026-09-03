@@ -17,12 +17,12 @@ window.CONFIG = {
   },
 
   contacto: {
-    email: 'hola@ritualbycelic.com',                   // ⚠️
-    telefono: '+52 55 1234 5678',                      // ⚠️
-    whatsapp: '5215512345678',                         // ⚠️ solo dígitos, con código de país. Vacío ('') oculta los botones de WhatsApp.
-    direccion: 'Av. Ámsterdam 240, Condesa',           // ⚠️
-    ciudadPostal: '06100 Ciudad de México',            // ⚠️
-    mapsQuery: 'Av. Amsterdam 240, Condesa, Ciudad de Mexico', // ⚠️ usado para el enlace a Google Maps
+    email: 'octaviomaortiz@gmail.com',                   // ⚠️
+    telefono: '+52 44 4520 4990',                      // ⚠️
+    whatsapp: '5214445204990',                         // ⚠️ solo dígitos, con código de país. Vacío ('') oculta los botones de WhatsApp.
+    direccion: 'Queretarock',           // ⚠️
+    ciudadPostal: 'La vista Residencial san Calixto',            // ⚠️
+    mapsQuery: 'San Calixto residencial', // ⚠️ usado para el enlace a Google Maps
     horario: [
       { dia: 'Lunes a viernes', horas: '9:00 – 19:00' },
       { dia: 'Sábado', horas: '10:00 – 17:00' },
